@@ -48,9 +48,9 @@ Evite escrever a história inteira por mim ou usar textos muito longos.
 
 
 ## 🛠️ Tecnologias e Habilidades Aplicadas
-Engenharia de Prompts: Estruturação lógica de comandos para Modelos de Linguagem (LLMs).
+**Engenharia de Prompts:**  Estruturação lógica de comandos para Modelos de Linguagem (LLMs).
 
-Design Centrado no Usuário: Adaptação de ferramentas tecnológicas para atender necessidades específicas de neurodiversidade.
+**Design Centrado no Usuário:** Adaptação de ferramentas tecnológicas para atender necessidades específicas de neurodiversidade.
 
-Gestão de Produtividade: Uso de IA para quebra de tarefas complexas em micro-passos executáveis.
+**Gestão de Produtividade:** Uso de IA para quebra de tarefas complexas em micro-passos executáveis.
 
