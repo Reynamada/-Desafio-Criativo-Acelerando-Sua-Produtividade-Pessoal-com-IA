@@ -40,8 +40,8 @@ Aqui, detalhamos o cenário da história, o formato visual desejado e as regras 
 ### 🧱 Passo 3: O Prompt Final 🚀
 A união das etapas anteriores resulta em um comando robusto, claro e altamente eficiente.
 
----
-Quero que a IA gere uma estrutura de 'Jornada do Herói' dividida em 5 capítulos para um jovem criador de quadrinhos, com o objetivo de organizar o caos criativo e superar a sobrecarga cognitiva. 
+
+> Quero que a IA gere uma estrutura de 'Jornada do Herói' dividida em 5 capítulos para um jovem criador de quadrinhos, com o objetivo de organizar o caos criativo e superar a sobrecarga cognitiva. 
 Considere o seguinte contexto: tenho uma ideia para uma história em quadrinhos sobre um mundo de robôs, mas tenho muitas ideias ao mesmo tempo e não sei por onde começar. 
 O conteúdo deve ter o formato de um mapa visual em tópicos curtos, me dizendo apenas o que acontece no começo, meio e fim de cada capítulo. 
 Evite escrever a história inteira por mim ou usar textos muito longos.
